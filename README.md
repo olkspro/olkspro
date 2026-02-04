@@ -1,7 +1,7 @@
 # Hi, im Alexsey 👋
 
 # 💫 About Me:
-18 year old computer science student.<br>Developing in the direction of web development, <br>namely frontend development.
+18 year old computer science student.<br>Developing in the direction of web development, <br>namely frontend development.<br>My portfolio: https://olkspro.github.io/my-portfolio/
 
 
 ## 🌐 Socials:
